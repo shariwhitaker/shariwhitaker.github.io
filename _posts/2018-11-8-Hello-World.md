@@ -15,7 +15,7 @@ I want to be an orthopedic surgeon. They make so much money and the type of life
 * a black Mercedes Benz
 * a good paying job
 * a business
-* 2 kids with a husband
+* ~~2 kids~~ with a husband
 # Things I want to accomplish
 1. graduate highschool
 2. go to college
