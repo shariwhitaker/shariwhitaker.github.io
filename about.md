@@ -4,11 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+<h1> My Resume </h1>
 
-### More Information
+<h2> Shari Whitaker</h2>
+shariwhitaker46@gmail.com
 
-A place to include any other types of information that you'd like to include about yourself.
+<h2> Skills </h2>
+<li>
+  certified in Word 2016</li>
+<h2>
+Education
+</h2>
+<li>
+  El Centro Community College</li>
+<li>
+  Franklin D Roosevelt High School</li>
 
 ### Contact me
 
