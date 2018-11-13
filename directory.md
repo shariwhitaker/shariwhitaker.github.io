@@ -1,4 +1,3 @@
-[Click me!](http://test.com/)
 ---
 layout:page
 title: Intermediate Web Programming 
